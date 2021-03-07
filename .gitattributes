@@ -1,0 +1,13 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+Tracking filter=lfs diff=lfs merge=lfs -text
+VirtualStudio.exe filter=lfs diff=lfs merge=lfs -text
+VirtualStudio.pdb filter=lfs diff=lfs merge=lfs -text
+T_Beech_Vrslls_02_D_uasset
+git[[:space:]]lfs[[:space:]]track[[:space:]]T_Beech_Vrslls_02_D_uasset[[:space:]]Tracking[[:space:]]T_Beech_Vrslls_02_D_Uasset
+git[[:space:]]lfs[[:space:]]track[[:space:]]T_Beech_Vrslls_02_D_uasset filter=lfs diff=lfs merge=lfs -text
+T_Beech_Vrslls_02_D.uasset filter=lfs diff=lfs merge=lfs -text
+T_Beech_Vrslls_02_D.Uasset filter=lfs diff=lfs merge=lfs -text
+T_Beech_Vrslls_02_N.uasset filter=lfs diff=lfs merge=lfs -text
+TrackerlessStudio_BuildData.uasset filter=lfs diff=lfs merge=lfs -text
+TrackerlessStudio_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+SharedPCH.Core.h.pch filter=lfs diff=lfs merge=lfs -text

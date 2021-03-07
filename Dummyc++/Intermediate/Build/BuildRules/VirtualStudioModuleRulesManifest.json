@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ruggo\\Desktop\\VirtualStudio\\Source\\VirtualStudio\\VirtualStudio.Build.cs",
+		"C:\\Users\\Ruggo\\Desktop\\VirtualStudio\\Source\\VirtualStudio.Target.cs",
+		"C:\\Users\\Ruggo\\Desktop\\VirtualStudio\\Source\\VirtualStudioEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

@@ -285,8 +285,8 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Development\WebMMedia\Module.WebMMedia.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Development\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UE4\Development\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h.obj"
-"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\UE4\Development\VirtualStudio\VirtualStudio.cpp.obj"
+"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h.obj"
+"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\UE4\Development\VirtualStudio\VirtualStudio.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\BuildSettings\BuildSettings.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\TraceLog\Module.TraceLog.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\Core\PCH.Core.h.obj"
@@ -896,7 +896,7 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioCaptureRtAudio\Module.AudioCaptureRtAudio.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioAnalyzer\Module.AudioAnalyzer.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioAnalyzer\Module.AudioAnalyzer.gen.cpp.obj"
-"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\VirtualStudio\Development\Default.rc2.res"
+"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\VirtualStudio\Development\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\dxerr.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\WebRTC\rev.24472\Lib\Win64\VS2015\Release\protobuf_full.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\WebRTC\rev.24472\Lib\Win64\VS2015\Release\protobuf_lite.lib"
@@ -1028,8 +1028,8 @@
 "winhttp.lib"
 "d3d11.lib"
 "legacy_stdio_definitions.lib"
-/OUT:"C:\Users\Ruggo\Desktop\VirtualStudio\Binaries\Win64\VirtualStudio.exe"
-/PDB:"C:\Users\Ruggo\Desktop\VirtualStudio\Binaries\Win64\VirtualStudio.pdb"
+/OUT:"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Binaries\Win64\VirtualStudio.exe"
+/PDB:"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Binaries\Win64\VirtualStudio.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_PixelStreaming
 /INCLUDE:IMPLEMENT_MODULE_PixelStreamingPlayerFactory

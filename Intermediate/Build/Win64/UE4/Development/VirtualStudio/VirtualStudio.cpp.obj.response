@@ -72,20 +72,20 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
-/I C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate
-/I C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Source
+/I "C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate"
+/I "C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Source"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h"
-/Yu"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Source\VirtualStudio.cpp"
-/FI"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\UE4\Development\VirtualStudio\Definitions.VirtualStudio.h"
-/Fo"C:\Users\Ruggo\Desktop\VirtualStudio\Intermediate\Build\Win64\UE4\Development\VirtualStudio\VirtualStudio.cpp.obj"
+/FI"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h"
+/Yu"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h"
+/Fp"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\VirtualStudio\Development\Core\SharedPCH.Core.h.pch"
+"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Source\VirtualStudio.cpp"
+/FI"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\UE4\Development\VirtualStudio\Definitions.VirtualStudio.h"
+/Fo"C:\Users\Ruggo\Documents\Unity projects\MVP-Build-Org\Intermediate\Build\Win64\UE4\Development\VirtualStudio\VirtualStudio.cpp.obj"
 /TP
 /GR-
 /W4
